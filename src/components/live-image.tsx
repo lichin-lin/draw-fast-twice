@@ -238,7 +238,8 @@ export class LiveImageShapeUtil extends FrameShapeUtil {
           {image && (
             <img
               src={image}
-              alt=""
+              id={shape.id || ""}
+              // alt={shape.id || ""}
               width={shape.props.w}
               height={shape.props.h}
               style={{
