@@ -89,7 +89,7 @@ export default function Home() {
             },
           }])
         }
-      }, 5000)
+      }, 1000)
       return;
     }
 
@@ -102,7 +102,7 @@ export default function Home() {
       props: {
         w: 512,
         h: 512,
-        name: "a hotdog",
+        name: "a dog",
       },
     });
 
@@ -115,7 +115,7 @@ export default function Home() {
       props: {
         w: 512,
         h: 512,
-        name: "a hotdog 4k",
+        name: "a dog, 4k",
       },
     });
   };
