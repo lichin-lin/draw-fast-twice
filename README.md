@@ -15,3 +15,5 @@ npm install
 npm run dev
 ```
 
+## Troubleshooting
+Since this is a proof of concept built in 1 hour, you might encounter some unexpected behavior (for example somehow the pipeline stop). The simplest way to fix that is: **Select All(with hotkey `cmd+a`) > Delete > Refresh the page**
