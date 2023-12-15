@@ -4,7 +4,7 @@
 
 ## draw fast
 
-This is a fun exploration project I built during Tldraw hack night 🧑‍💻 the purpose of this hack night is to try out different ideas about LCM, a realtime stable diffusion model, on the 2D Canvas.
+This is a fun exploration project I built during [Tldraw hack night](https://x.com/lichinlin/status/1727808948059722150?s=20) 🧑‍💻 the purpose of this hack night is to try out different ideas about LCM, a realtime stable diffusion model, on the 2D Canvas.
 
 Draw fast twice is a concpet about making the linked list or a pipeline where we can pass the result from a frame down to the next frame (as the input)! 
 
